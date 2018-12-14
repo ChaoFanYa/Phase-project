@@ -1,0 +1,317 @@
+    .register-container{
+        width: 1340px;
+        height: 1000px;
+        background: #fff;
+        margin-left: 120px;
+    }
+
+    /* 首页》我的账户 */
+    .register-header{
+        width: 100%;
+        height: 60px;
+        line-height: 50px;
+        color: #aaaaaa;
+        margin-top: 14px;
+    }
+    .register-header span a{
+        color: #aaa;
+        font-size: 13px;
+    }
+
+    /* 左边 */
+    .register-left{
+        width: 900px;
+        height: 900px;
+        float: left;
+    }
+
+    /* 前往登陆 */
+    .register-left-land{
+        width: 830px;
+        height: 220px;
+        background: #fff;
+        padding-left: 50px;
+        border-bottom: 1px solid black;
+    }
+    .register-left-land h2{
+        line-height: 100px;
+        padding-top: 20px;
+    }
+    .register-left-land h2 a{
+        text-decoration: underline;
+        color: black;
+    }
+    .register-li1{
+        margin-top: 20px
+    }
+    .register-left-land li{
+        float: left;
+    }
+    .register-left-land li img{
+        width: 30px;
+    }
+    .register-left-land ul ol{
+        margin-left: 30px;
+    }
+    .register-left-land ul ol li{
+        float: left;
+        padding-left: 20px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .huo1{
+        display: block;
+        width: 60px;
+        height: 30px;
+        background: #fff;
+        text-align: center;
+        line-height: 30px;
+        position: absolute;
+        top: 425px;
+        left: 520px;
+    }
+
+    /* 新用户注册 */
+    .register-left-newreg{
+        width: 830px;
+        height: 510px;
+        padding-left: 50px;
+        padding-top: 20px;
+        background: #fff;
+    }
+    .register-left-newreg h1{
+        padding: 30px 0;
+    }
+    .register-left-newreg ul li{
+        float: left;
+        margin-right: 30px;
+    }
+
+    /* 信息表单 */
+    .register-left-form{
+        width: 800px;
+        height: 360px;
+    }
+    .register-left-form span{
+        margin: 24px 0 8px 0;
+        display: block;
+    }
+    .register-left-from-ul1{
+        width: 800px;
+        height: 30px;
+    }
+    .register-left-from-ul1 li{
+        padding-right: 40px;
+    }
+    .register-left-form li{
+        float: left;
+    }
+    .register-left-form input{
+        width: 350px;
+        height: 45px;
+    }
+    #pstr1,#pstr2{
+        width:10px;
+        height: 20px;
+        background: #ddd;
+        margin: 10px 0 0 5px;
+        /* border-radius: 30px; */
+    }
+    /* #pstr2{ */
+        /* position: absolute;
+        top: 798px;
+        left: 580px; */
+    /* } */
+    /* .register-left-form .ver-code li{
+        width
+    } */
+    .ver-code li:first-child input{
+        width: 180px;
+        height: 50px;
+        float: left;
+    }
+    .ver-code li:first-child img{
+        width: 60px;
+        float: left;
+        margin: 5px 0 0 10px;
+    }
+    .ver-code li:first-child h5{
+        float: left;
+        line-height: 50px;
+        font-weight: normal;
+        font-size: 12px;
+        padding-left: 10px;
+    }
+    .ver-code li:first-child h5 a{
+        text-decoration: underline;
+        color: black;
+        font-size: 12px;
+    }
+    
+    .ver-code li:last-child input{
+        width: 210px;
+        height: 50px;
+        float: left;
+    }
+    .get-code{
+        width: 150px;
+        height: 50px;
+        background: black;
+        float: left;
+        color: #fff;
+        text-align: center;
+        line-height: 50px;
+        font-size: 14px;
+        border: 1px solid black;
+        margin:3px 0 0  15px;
+        border-radius: 5px;
+    }
+    .get-code:hover{
+        background: #fff;
+        color: black;;
+        transition: all .5s;
+    }
+
+    /* 订阅协议 */
+    .agreement{
+        width: 800px;
+        height: 150px;
+        padding-left: 50px;
+    }
+    .agreement div{
+        padding-left: 30px;
+        font-size: 14px;
+    }
+    .agreement #agreement-reg{
+        padding: 0;
+        width: 170px;
+        height: 50px;
+        background: black;
+        color: #fff;
+        border: 1px solid black;
+        text-align: center;
+        line-height: 50px;
+        margin-top: 20px;
+        border-radius: 5px;
+        position: relative;
+    }
+    #agreement-reg:hover{
+        background: #fff;
+        color: black;
+        transition: all .5s;
+    }
+    .agreement-sub{
+        margin:10px 0;
+    }
+    .agreement .sub-box1{
+        padding: 0;
+        width: 15px;
+        height: 15px;
+        background: #fff;
+        border: 1px solid black;
+        position: absolute;
+        top: 980px;
+        left:170px;
+    }
+    .agreement .sub-box2{
+        padding: 0;
+        width: 15px;
+        height: 15px;
+        background: #fff;
+        border: 1px solid black;
+        position: absolute;
+        top: 1010px;
+        left:170px;
+    }
+    .register-right{
+        width: 370px;
+        height: 530px;
+        background: #eee;
+        float: left;
+        margin-top: 20px;
+        text-align: center;
+        margin-left: 30px;
+    }
+    .register-right-top{
+        width: 260px;
+        height: 400px;
+        margin:20px 0 0 50px;
+        position: relative;
+    }
+    .register-right-top h2{
+        margin-bottom: 20px;
+    }
+    .register-right-top p{
+        margin:5px 0 30px 0;
+    }
+    .register-right-bootom{
+        width: 370px;
+        height: 270px;
+        background: #eee;
+        position: absolute;
+        top: 800px;
+        left: 600;
+    }
+    .register-service{
+        width: 260px;
+        height: 250px;
+        margin-left: 50px;
+    }
+    .register-service h2{
+        padding: 10px 0 15px 0;
+        font-weight: normal;
+    }
+    .register-service p{
+        line-height: 30px;
+        font-size: 14px;
+    }
+    .register-service img{
+        width: 18px;
+        vertical-align: middle;
+    }
+    .consu{
+        width: 160px;
+        height: 45px;
+        background: black;
+        color: #fff;
+        text-align: center;
+        line-height: 45px;
+        margin:10px 40px;
+        font-size: 14px;
+        border-radius: 5px;
+        border: 1px solid black;
+    }
+    .consu:hover{
+        background: #fff;
+        color: black;
+        transition: all .5s;
+    }
+    .articale-footer{
+        margin-top: 270px;
+    }
+    #tips1{
+        position: absolute;
+        top: 700px;
+        left: 200px;
+        font-size: 13px;
+        color: #777777
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

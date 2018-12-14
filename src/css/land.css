@@ -1,0 +1,248 @@
+    .all{
+        width: 1300px;
+        height: 740px;
+        background: #fff;
+        margin-left: 120px;
+    }
+
+    .articale-bread{
+        width: 1300px;
+        height: 60px;
+        font-size: 13px;
+        line-height: 50px;
+        margin-top:30px;
+        color: #aaa;
+        background: #fff;
+    }
+    .articale-bread a{
+        color: #aaa;
+    }
+    .articale-bread a:hover{
+        text-decoration: underline;
+    }
+
+    /* 登陆 */
+    .articale-land{
+        width:410px;
+        height: 646px;
+        float: left;
+        padding-left: 40px;
+        line-height: 40px;
+        background: #fff;
+    }
+    .articale-land input{
+        width: 380px;
+        height: 40px;
+    }
+    .articale-land ul li:first-child{
+        float: left;
+        padding-left: 25px;
+    }
+    .articale-land ul li:nth-child(2){
+        float: right;
+        padding-right: 75px;
+    }
+    .articale-land ul li:nth-child(2) span a{
+        color: black;
+        text-decoration: underline;
+    }
+    .articale-land h1{
+        padding-bottom: 25px;
+    }
+    #userName{
+        margin-bottom: 30px;
+        position: relative;
+    }
+    #phone{
+        display: block;
+        margin: -25px 0 0 10px;
+        position: absolute;
+        top: 300;
+        left: 180px;
+        font-size: 14px;
+        color: #aaa;
+    }
+    #passWord{
+        margin-bottom: 30px;
+        position: relative;
+    }
+    #pass{
+        border-radius: 10px;
+        display: block;
+        position: absolute;
+        top: 506px;
+        left: 185px;
+        font-size: 14px;
+        color: #aaa;
+    }
+    #land{
+        width: 160px;
+        height: 45px;
+        background: black;
+        margin: 58px 0 50px 0;
+        color: #fff;
+        text-align: center;
+        line-height: 45px;
+        border-radius: 5px;
+        border: 1px solid black;
+    }
+    #land:hover{
+        background: #fff;
+        color: black;
+        transition: all .4s;
+    }
+    #land a{
+        color: #fff;
+    }
+    #land:hover a{
+        color: black;
+    }
+    #whitebox{
+        width: 15px;
+        height: 15px;
+        background: #fff;
+        position: absolute;
+        top: 543px;
+        left: 160px;
+        border: 1px solid black;
+    }
+    #blackbox{
+        width: 13px;
+        height: 13px;
+        background: black;
+        margin: 1px;
+        display: none;
+    }
+    .huo{
+        display: block;
+        width: 50px;
+        height: 30px;
+        text-align: center;
+        line-height: 30px;
+        background: #fff;
+        position: absolute;
+        top: 674px;
+        left: 350px;
+        margin-bottom: 45px;
+    }
+    .shiyong{
+        padding: 20px 0 25px 0;
+    }
+    .articale-land ol li{
+        width: 70px;
+        height: 40px;
+        float: left;
+        margin-left: 30px;
+    }
+    .articale-land ol li img{
+        width: 50px;
+        margin: 0;
+        padding: 0;
+    }
+    .articale-land ol li p{
+        display: inline-block;
+        margin-left: 5px;
+        font-size: 12px;
+    }
+    .articale-land ol:last-child{
+        padding-left: 6px;
+    }
+
+    /* 注册成为圣罗兰官网会员即可尊享 */
+    .articale-center{
+        float: left;
+        width: 400px;
+        height: 600px;
+        background: #fff;
+        padding-left: 80px;
+    }
+    .articale-center h2{
+        margin-top: 10px;
+    }
+    .articale-center h4{
+        margin-top: 25px;
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+    .articale-center span{
+        color: #888;
+        font-size: 15px;
+    }
+    .articale-center span a{
+        color: #888;
+        text-decoration: underline;
+        font-size: 15px;
+    }
+    .articale-center-menu{
+        margin-top: 40px;
+        width: 180px;
+        height: 45px;
+        background: black;
+        color: #fff;
+        text-align: center;
+        line-height: 45px;
+        border-radius: 5px;
+        border: 1px solid black;
+    }
+    .articale-center-menu:hover{
+        background: #fff;
+       
+        transition: all .4s;
+    }
+    .articale-center-menu a {
+        color: #fff;
+    }
+    .articale-center-menu:hover a{
+         color: black;
+    }
+
+    /* 客户服务 */
+    .articale-right{
+        width: 300px;
+        height: 300px;
+        float: left;
+        background: #eee;
+        text-align: center;
+        line-height: 41px;
+        margin:10px 0 0 50px;
+    }
+    .articale-right h2{
+        margin-top: 10px;
+        font-weight: normal;
+    }
+    .articale-right p:nth-child(3){
+        font-weight: bolder;
+    }
+    .articale-right-menu{
+        width: 180px;
+        height: 45px;
+        background: black;
+        color: #fff;
+        text-align: center;
+        line-height: 45px;
+        border-radius: 5px;
+        margin: 10px 0 0 55px;
+        border: 1px solid black;
+    }
+    .articale-right-menu:hover{
+        background: #fff;
+        color: black;
+        transition: all .4s;
+    }
+
+    .articale-footer{
+        margin-top: 150px;
+    }
+    #zhushi{
+        position: absolute;
+        top: 640px;
+        left: 170px;
+        font-size: 14px;
+    }
+
+
+
+
+
+
+

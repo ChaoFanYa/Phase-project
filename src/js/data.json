@@ -1,0 +1,1185 @@
+{
+    "status": {
+        "code": 1001,
+        "msg": "success"
+    },
+    "result": {
+        "filter": {
+            "title": "买手精选",
+            "list": [{
+                "fcid": "50019",
+                "style": null,
+                "sort": "pop",
+                "type": "sort",
+                "title": "综合"
+            }, {
+                "fcid": "50019",
+                "style": null,
+                "sort": "sell",
+                "type": "sort",
+                "title": "销量"
+            }, {
+                "fcid": "50019",
+                "style": null,
+                "sort": "new",
+                "type": "sort",
+                "title": "新品"
+            }, {
+                "fcid": 50019,
+                "style": {
+                    "sort": "pop",
+                    "type": "price",
+                    "list": [{
+                        "minPrice": "80",
+                        "maxPrice": "110",
+                        "title": "80-110"
+                    }, {
+                        "minPrice": "110",
+                        "maxPrice": "225",
+                        "title": "110-225"
+                    }, {
+                        "minPrice": "225",
+                        "maxPrice": "325",
+                        "title": "225-325"
+                    }]
+                },
+                "title": "价格",
+                "type": "price"
+            }]
+        },
+        "param": {
+            "eventId": "0x00000000",
+            "fieldBenchmark": false,
+            "cKey": "defaultKey",
+            "fcid": "50019",
+            "cpcEventId": "70005",
+            "section": "0",
+            "_mgjuuid": "a20ddd98-24f1-4b47-bc41-4efcb6cb49d7",
+            "page": "1",
+            "sort": "pop",
+            "duplicate": false
+        },
+        "wall": {
+            "offset": 30,
+            "mbook": "eyJjS2V5IjoiZGVmYXVsdEtleSIsImZjaWQiOjUwMDE5LCJ3aWR0aCI6MjIwLCJwYWdlIjoxLCJzb3J0IjoicG9wIiwiaGVpZ2h0IjozMzB9",
+            "page": 1,
+            "title": "买手精选",
+            "list": [{
+                "itemType": 7,
+                "iid": "1kq59pi",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1kq59pi&acm=3.ms.1_1_1kq59pi.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_305496249_0_1_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2051736_40_0-dit_25&cparam=MTU0NDYwNTk0Nl8xZmp6YnRzX2QxMTljMzc0YmEzMWI2NGY5MzdiNzA3ZDc3NDRlNzllXzE2XzBfMzA1NDk2MjQ5XzRlODhfMF8xXzBfODcxXzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/c45406/181021_7lhbg3b28begl17133h1lk7lcaki8_640x960.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/c45406/181021_7lhbg3b28begl17133h1lk7lcaki8_640x960.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 480
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1kq59pi&acm=3.ms.1_1_1kq59pi.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_305496249_0_1_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2051736_40_0-dit_25&cparam=MTU0NDYwNTk0Nl8xZmp6YnRzX2QxMTljMzc0YmEzMWI2NGY5MzdiNzA3ZDc3NDRlNzllXzE2XzBfMzA1NDk2MjQ5XzRlODhfMF8xXzBfODcxXzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "itemMarks": "1525 77 166 16 1232 1210 206 82",
+                "acm": "3.ms.1_1_1kq59pi.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_305496249_0_1_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2051736_40_0-dit_25",
+                "title": "【两件70元】2018秋冬上新韩版百搭半高领纯色打底衫显瘦长袖修身针织衫套头保暖毛衣女上衣",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xZmp6YnRzX2QxMTljMzc0YmEzMWI2NGY5MzdiNzA3ZDc3NDRlNzllXzE2XzBfMzA1NDk2MjQ5XzRlODhfMF8xXzBfODcxXzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "orgPrice": "￥70",
+                "props": ["保暖毛衣", "半高领", "套头", "长袖", "百搭", "显瘦", "秋冬", "韩版"],
+                "hasSimilarity": true,
+                "sale": "20006",
+                "cfav": "39138",
+                "price": "￥39",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1kq59pi&acm=3.ms.1_1_1kq59pi.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_305496249_0_1_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2051736_40_0-dit_25&itemType=7"
+            }, {
+                "itemType": 7,
+                "iid": "1ma3z1s",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1ma3z1s&acm=3.ms.1_1_1ma3z1s.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_470276788_471953965_2_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_1_471953965_25_0-dit_25&cparam=MTU0NDYwNTk0Nl8xZmdncDR5XzRlZjA4MTk4Yjc2MjVjNjljNDFjMzNhYzEyOTNmODg5XzE2XzFfNDcwMjc2Nzg4XzRmOGJfMF8yXzBfODY3XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/c45406/181019_1eh1a2613ck7a2bicfi8ciaki063f_640x900.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 788
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/c45406/181019_1eh1a2613ck7a2bicfi8ciaki063f_640x900.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 450
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1ma3z1s&acm=3.ms.1_1_1ma3z1s.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_470276788_471953965_2_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_1_471953965_25_0-dit_25&cparam=MTU0NDYwNTk0Nl8xZmdncDR5XzRlZjA4MTk4Yjc2MjVjNjljNDFjMzNhYzEyOTNmODg5XzE2XzFfNDcwMjc2Nzg4XzRmOGJfMF8yXzBfODY3XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                "itemMarks": "352 1655 82 1318 152 351",
+                "acm": "3.ms.1_1_1ma3z1s.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_470276788_471953965_2_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_1_471953965_25_0-dit_25",
+                "title": "2018冬季新款韩版大毛领中长款收腰显瘦外套羽绒棉服加厚棉衣女",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xZmdncDR5XzRlZjA4MTk4Yjc2MjVjNjljNDFjMzNhYzEyOTNmODg5XzE2XzFfNDcwMjc2Nzg4XzRmOGJfMF8yXzBfODY3XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                "orgPrice": "￥300",
+                "props": ["羽绒棉服", "大毛领", "中长款", "收腰", "冬季", "韩版", "新款"],
+                "hasSimilarity": true,
+                "sale": "5632",
+                "cfav": "11191",
+                "price": "￥139",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1ma3z1s&acm=3.ms.1_1_1ma3z1s.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_470276788_471953965_2_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_1_471953965_25_0-dit_25&itemType=7",
+                "mdDiscount": "蘑豆抵2%"
+            }, {
+                "itemType": 6,
+                "iid": "1mawhjk",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mawhjk&acm=3.ms.1_4_1mawhjk.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_461356763_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjEzNTY3NjNfNDVfMF8wXzBfNjU1XzFfM19sb2MtMA==",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_7aal3aja2871c5h8b7975kbil92gc_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_7aal3aja2871c5h8b7975kbil92gc_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mawhjk&acm=3.ms.1_4_1mawhjk.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_461356763_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjEzNTY3NjNfNDVfMF8wXzBfNjU1XzFfM19sb2MtMA==",
+                "combImage": true,
+                "itemMarks": "352 166 16 206 351",
+                "acm": "3.ms.1_4_1mawhjk.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_461356763_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "chic长款过膝面包服女2018新款韩版冬季大毛领时尚显瘦粉色时尚羽绒棉棉衣棉服外套学生",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjEzNTY3NjNfNDVfMF8wXzBfNjU1XzFfM19sb2MtMA==",
+                "orgPrice": "￥425",
+                "props": ["面包服", "大毛领", "过膝", "长款", "粉色", "显瘦", "时尚", "冬季", "韩版", "新款"],
+                "hasSimilarity": true,
+                "sale": 89,
+                "cfav": 594,
+                "price": "￥235",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mawhjk&acm=3.ms.1_4_1mawhjk.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_461356763_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6",
+                "mdDiscount": "蘑豆抵2%"
+            }, {
+                "itemType": 6,
+                "iid": "1mbrxn2",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbrxn2&acm=3.ms.1_4_1mbrxn2.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469555402_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njk1NTU0MDJfNGZfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_8a4hjhh33g2ii377c5i338j2i7g15_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_8a4hjhh33g2ii377c5i338j2i7g15_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbrxn2&acm=3.ms.1_4_1mbrxn2.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469555402_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njk1NTU0MDJfNGZfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "combImage": true,
+                "itemMarks": "352 1558 166 16 206 351",
+                "acm": "3.ms.1_4_1mbrxn2.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469555402_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "2018秋冬新款东大门白色羽绒服女中长款加厚宽松大毛领过膝冬装面包服",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njk1NTU0MDJfNGZfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "orgPrice": "￥500",
+                "props": ["白色羽绒服", "大毛领", "过膝", "中长款加厚", "东大门", "秋冬新款", "宽松"],
+                "hasSimilarity": true,
+                "sale": 183,
+                "cfav": 1466,
+                "price": "￥285",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mbrxn2&acm=3.ms.1_4_1mbrxn2.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469555402_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1mbpbyq",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbpbyq&acm=3.ms.1_4_1mbpbyq.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467607418_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc2MDc0MThfNGY4Zl8wXzBfMF8xNDVfMV8zX2xvYy0w",
+                "showLarge": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_61jid5f6i5487k8aic0f8b8d724ak_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_61jid5f6i5487k8aic0f8b8d724ak_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbpbyq&acm=3.ms.1_4_1mbpbyq.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467607418_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc2MDc0MThfNGY4Zl8wXzBfMF8xNDVfMV8zX2xvYy0w",
+                "combImage": true,
+                "itemMarks": "352 1558 1459 166 353 1479 16 206 181 1826 351 1108",
+                "acm": "3.ms.1_4_1mbpbyq.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467607418_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "秋冬季新款韩版女装气质显瘦学生宽松中长款立领加厚牛角扣羊羔毛棉衣外套棉服棉袄大衣上衣",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc2MDc0MThfNGY4Zl8wXzBfMF8xNDVfMV8zX2xvYy0w",
+                "orgPrice": "￥350.77",
+                "props": ["羊羔毛棉衣", "加厚", "立领", "中长款", "宽松", "秋冬季", "显瘦", "气质", "韩版", "新款"],
+                "hasSimilarity": true,
+                "sale": 2263,
+                "cfav": 850,
+                "price": "￥228",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mbpbyq&acm=3.ms.1_4_1mbpbyq.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467607418_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1mbzgim",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbzgim&acm=3.ms.1_4_1mbzgim.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_471179953_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NzExNzk5NTNfNGY4Zl8wXzBfMF80N18xXzNfbG9jLTA=",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_4jk764i0343fb916f7a8g7lf527e7_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_4jk764i0343fb916f7a8g7lf527e7_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbzgim&acm=3.ms.1_4_1mbzgim.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_471179953_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NzExNzk5NTNfNGY4Zl8wXzBfMF80N18xXzNfbG9jLTA=",
+                "combImage": true,
+                "itemMarks": "352 166 16 206 351",
+                "acm": "3.ms.1_4_1mbzgim.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_471179953_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "2018秋冬外套女短款棉衣冬装2018新款韩版仿皮毛一体宽松毛绒外套加厚甜美风厚夹克潮",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NzExNzk5NTNfNGY4Zl8wXzBfMF80N18xXzNfbG9jLTA=",
+                "orgPrice": "￥228",
+                "props": ["秋冬外套", "仿皮毛", "加厚", "宽松", "甜美风", "一体", "韩版", "新款"],
+                "hasSimilarity": true,
+                "sale": 45,
+                "onSaleTime": "最近上新",
+                "cfav": 120,
+                "price": "￥137",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mbzgim&acm=3.ms.1_4_1mbzgim.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_471179953_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1mb6ag8",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mb6ag8&acm=3.ms.1_4_1mb6ag8.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_461850052_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjE4NTAwNTJfNGNfMF8wXzBfMTU1XzFfM19sb2MtMA==",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_8g11d89c56ldcabgf163d507igkk7_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_8g11d89c56ldcabgf163d507igkk7_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mb6ag8&acm=3.ms.1_4_1mb6ag8.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_461850052_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjE4NTAwNTJfNGNfMF8wXzBfMTU1XzFfM19sb2MtMA==",
+                "combImage": true,
+                "itemMarks": "166 16 206",
+                "acm": "3.ms.1_4_1mb6ag8.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_461850052_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "大毛领棉衣女中长款韩版2018新款冬季加厚棉袄学生宽松bf百搭棉服",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjE4NTAwNTJfNGNfMF8wXzBfMTU1XzFfM19sb2MtMA==",
+                "orgPrice": "￥270",
+                "props": ["大毛领棉衣", "中长款", "宽松", "百搭", "冬季", "韩版", "新款"],
+                "hasSimilarity": true,
+                "sale": 34,
+                "cfav": 308,
+                "price": "￥175",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mb6ag8&acm=3.ms.1_4_1mb6ag8.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_461850052_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1mb4vzm",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mb4vzm&acm=3.ms.1_4_1mb4vzm.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467990687_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc5OTA2ODdfNGNfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "showLarge": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_19e8a30d390f086jh78h0jfcd90l3_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_19e8a30d390f086jh78h0jfcd90l3_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mb4vzm&acm=3.ms.1_4_1mb4vzm.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467990687_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc5OTA2ODdfNGNfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "combImage": true,
+                "itemMarks": "352 1558 166 16 206 351",
+                "acm": "3.ms.1_4_1mb4vzm.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467990687_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "大毛领过膝加厚格子面包服羽绒服女中长款2018冬季新款学生大衣外套",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc5OTA2ODdfNGNfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "orgPrice": "￥488",
+                "props": ["羽绒服", "大毛领", "过膝", "加厚", "中长款", "格子", "冬季", "新款"],
+                "hasSimilarity": true,
+                "sale": 108,
+                "cfav": 672,
+                "price": "￥286",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mb4vzm&acm=3.ms.1_4_1mb4vzm.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467990687_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 7,
+                "iid": "1mbor00",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbor00&acm=3.ms.1_1_1mbor00.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_467322757_2062038_3_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2062038_36_0-dit_25&cparam=MTU0NDYwNTk0Nl8xZmtibGZrX2U0MWYyNjQyZmNmMzQwNjliNDZhODUxNmJmYzMzMzZjXzE2XzJfNDY3MzIyNzU3XzRlOGJfMjA2MjAzOF8zXzBfMzI0XzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "showLarge": {
+                    "img": "http://s3.mogucdn.com/mlcdn/17f85e/181122_8610e94ja7hhg90k17h8bbe6lk45e_640x960.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s11.mogucdn.com/mlcdn/17f85e/181122_8610e94ja7hhg90k17h8bbe6lk45e_640x960.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 480
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbor00&acm=3.ms.1_1_1mbor00.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_467322757_2062038_3_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2062038_36_0-dit_25&cparam=MTU0NDYwNTk0Nl8xZmtibGZrX2U0MWYyNjQyZmNmMzQwNjliNDZhODUxNmJmYzMzMzZjXzE2XzJfNDY3MzIyNzU3XzRlOGJfMjA2MjAzOF8zXzBfMzI0XzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "itemMarks": "353 82 181",
+                "acm": "3.ms.1_1_1mbor00.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_467322757_2062038_3_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2062038_36_0-dit_25",
+                "title": "加厚毛衣女宽松2018新款韩版慵懒风甜美套头毛衣高领简约白色百搭长袖打底衫冬季女短款",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xZmtibGZrX2U0MWYyNjQyZmNmMzQwNjliNDZhODUxNmJmYzMzMzZjXzE2XzJfNDY3MzIyNzU3XzRlOGJfMjA2MjAzOF8zXzBfMzI0XzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "orgPrice": "￥128",
+                "props": ["套头毛衣", "高领", "宽松", "短款", "甜美", "百搭", "简约", "白色", "冬季", "韩版", "新款"],
+                "hasSimilarity": true,
+                "sale": "663",
+                "cfav": "1466",
+                "price": "￥65",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mbor00&acm=3.ms.1_1_1mbor00.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_467322757_2062038_3_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2062038_36_0-dit_25&itemType=7"
+            }, {
+                "itemType": 7,
+                "iid": "1mbvlzw",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbvlzw&acm=3.ms.1_1_1mbvlzw.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_470562948_480424663_4_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_1_480424663_50_0-dit_25&cparam=MTU0NDYwNTk0Nl8xZmlqeTA2X2U4YjEyMzUxYWYwNzgwYjMxMWM5YjdjMmVhNGQxNmU5XzE2XzNfNDcwNTYyOTQ4XzQ5ODdfMF80XzBfNTkxXzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/c45406/181130_04a89a8eeed0jleg360k1k943716f_640x960.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/c45406/181130_04a89a8eeed0jleg360k1k943716f_640x960.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 480
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbvlzw&acm=3.ms.1_1_1mbvlzw.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_470562948_480424663_4_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_1_480424663_50_0-dit_25&cparam=MTU0NDYwNTk0Nl8xZmlqeTA2X2U4YjEyMzUxYWYwNzgwYjMxMWM5YjdjMmVhNGQxNmU5XzE2XzNfNDcwNTYyOTQ4XzQ5ODdfMF80XzBfNTkxXzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "itemMarks": "352 166 16 206 351",
+                "acm": "3.ms.1_1_1mbvlzw.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_470562948_480424663_4_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_1_480424663_50_0-dit_25",
+                "title": "加绒背心女冬季新款韩版港味Chic风加厚针织打底衫保暖吊带小背心女",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xZmlqeTA2X2U4YjEyMzUxYWYwNzgwYjMxMWM5YjdjMmVhNGQxNmU5XzE2XzNfNDcwNTYyOTQ4XzQ5ODdfMF80XzBfNTkxXzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "orgPrice": "￥64.29",
+                "props": ["吊带小背心", "加厚", "新款", "冬季", "韩版"],
+                "hasSimilarity": true,
+                "sale": "623",
+                "cfav": "388",
+                "price": "￥38.9",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mbvlzw&acm=3.ms.1_1_1mbvlzw.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_470562948_480424663_4_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_1_480424663_50_0-dit_25&itemType=7"
+            }, {
+                "itemType": 6,
+                "iid": "1mbpaiy",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbpaiy&acm=3.ms.1_4_1mbpaiy.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467607416_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc2MDc0MTZfNGY4Zl8wXzBfMF8xNDVfMV8zX2xvYy0w",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_18aibl0db1b0abff9kjbcej7ia718_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_18aibl0db1b0abff9kjbcej7ia718_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbpaiy&acm=3.ms.1_4_1mbpaiy.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467607416_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc2MDc0MTZfNGY4Zl8wXzBfMF8xNDVfMV8zX2xvYy0w",
+                "combImage": true,
+                "itemMarks": "1558 1459 166 1479 16 206 1075 1826",
+                "acm": "3.ms.1_4_1mbpaiy.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467607416_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "冬季新款韩版女装宽松显瘦棉服上衣棉袄大衣中长款ins面包服学生格子连帽大毛领棉衣外套",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc2MDc0MTZfNGY4Zl8wXzBfMF8xNDVfMV8zX2xvYy0w",
+                "orgPrice": "￥330",
+                "props": ["显瘦棉服", "大毛领", "连帽", "中长款", "宽松", "格子", "冬季", "韩版", "新款"],
+                "hasSimilarity": true,
+                "sale": 80,
+                "cfav": 574,
+                "price": "￥197",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mbpaiy&acm=3.ms.1_4_1mbpaiy.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467607416_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1lo6lng",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1lo6lng&acm=3.ms.1_4_1lo6lng.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_367135004_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF8zNjcxMzUwMDRfNGVfMF8wXzBfNDYxXzFfM19sb2MtMA==",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_40f75ee49bldjllk1ei7gj7g4lf7i_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_40f75ee49bldjllk1ei7gj7g4lf7i_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1lo6lng&acm=3.ms.1_4_1lo6lng.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_367135004_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF8zNjcxMzUwMDRfNGVfMF8wXzBfNDYxXzFfM19sb2MtMA==",
+                "combImage": true,
+                "itemMarks": "1525 352 166 16 206 351",
+                "acm": "3.ms.1_4_1lo6lng.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_367135004_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "大毛领外套女冬季新款韩版刺绣宽松显瘦中长款面包服保暖连帽大衣",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF8zNjcxMzUwMDRfNGVfMF8wXzBfNDYxXzFfM19sb2MtMA==",
+                "orgPrice": "￥351",
+                "props": ["大毛领外套", "宽松显瘦", "冬季", "新款", "韩版"],
+                "hasSimilarity": true,
+                "sale": 851,
+                "cfav": 8482,
+                "price": "￥228",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1lo6lng&acm=3.ms.1_4_1lo6lng.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_367135004_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1mbvl5a",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbvl5a&acm=3.ms.1_4_1mbvl5a.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469680846_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njk2ODA4NDZfNGNfMF8wXzBfMjg3XzFfM19sb2MtMA==",
+                "showLarge": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_15eaj038a7ge6bjj10la0c5623h95_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_15eaj038a7ge6bjj10la0c5623h95_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbvl5a&acm=3.ms.1_4_1mbvl5a.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469680846_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njk2ODA4NDZfNGNfMF8wXzBfMjg3XzFfM19sb2MtMA==",
+                "combImage": true,
+                "itemMarks": "352 166 16 206 351",
+                "acm": "3.ms.1_4_1mbvl5a.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469680846_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "冬季新款2018气质休闲韩版学生连帽面包服棉衣女秋冬季chic宽松加厚bf中长款棉服外套",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njk2ODA4NDZfNGNfMF8wXzBfMjg3XzFfM19sb2MtMA==",
+                "orgPrice": "￥209",
+                "props": ["面包服棉衣", "连帽", "加厚", "中长款", "宽松", "秋冬季", "气质", "休闲", "冬季", "韩版", "新款"],
+                "hasSimilarity": true,
+                "sale": 79,
+                "cfav": 310,
+                "price": "￥133",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mbvl5a&acm=3.ms.1_4_1mbvl5a.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469680846_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1mbsj7a",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbsj7a&acm=3.ms.1_4_1mbsj7a.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469555403_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njk1NTU0MDNfNGZfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_1fhl2b3l19aac9b2d16fkhei0kh81_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_1fhl2b3l19aac9b2d16fkhei0kh81_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbsj7a&acm=3.ms.1_4_1mbsj7a.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469555403_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njk1NTU0MDNfNGZfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "combImage": true,
+                "itemMarks": "352 1558 166 16 206 351",
+                "acm": "3.ms.1_4_1mbsj7a.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469555403_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "2018新款大衣女潮短款冬装加厚ins面包服小个子学生冬季面包服外套羽绒服",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njk1NTU0MDNfNGZfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "orgPrice": "￥398",
+                "props": ["羽绒服", "加厚", "短款", "女潮", "冬季"],
+                "hasSimilarity": true,
+                "sale": 99,
+                "cfav": 990,
+                "price": "￥197",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mbsj7a&acm=3.ms.1_4_1mbsj7a.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469555403_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1maxkxe",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1maxkxe&acm=3.ms.1_4_1maxkxe.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_466161564_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjYxNjE1NjRfNGY4Zl8wXzBfMF8xNDVfMV8zX2xvYy0w",
+                "showLarge": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_62kb2i179g6k97eiff09alj0hj345_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_62kb2i179g6k97eiff09alj0hj345_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1maxkxe&acm=3.ms.1_4_1maxkxe.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_466161564_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjYxNjE1NjRfNGY4Zl8wXzBfMF8xNDVfMV8zX2xvYy0w",
+                "combImage": true,
+                "itemMarks": "1558 166 16 206",
+                "acm": "3.ms.1_4_1maxkxe.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_466161564_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "冬季新款韩版女装宽松显瘦收腰棉袄上衣中长款连帽大毛领加厚面包服羽绒棉衣外套棉服大衣",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjYxNjE1NjRfNGY4Zl8wXzBfMF8xNDVfMV8zX2xvYy0w",
+                "orgPrice": "￥399",
+                "props": ["面包服", "大毛领", "羽绒", "加厚", "宽松显瘦", "冬季", "韩版", "新款"],
+                "hasSimilarity": true,
+                "sale": 94,
+                "cfav": 440,
+                "price": "￥198",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1maxkxe&acm=3.ms.1_4_1maxkxe.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_466161564_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1mbh7ky",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbh7ky&acm=3.ms.1_4_1mbh7ky.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_465564483_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjU1NjQ0ODNfNGNfMF8wXzBfMTgyXzFfM19sb2MtMA==",
+                "showLarge": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_7dhfc89085dfadh6ea08kddadad32_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_7dhfc89085dfadh6ea08kddadad32_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbh7ky&acm=3.ms.1_4_1mbh7ky.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_465564483_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjU1NjQ0ODNfNGNfMF8wXzBfMTgyXzFfM19sb2MtMA==",
+                "combImage": true,
+                "itemMarks": "352 166 16 206 82 351",
+                "acm": "3.ms.1_4_1mbh7ky.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_465564483_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "棉服2018新款羽绒棉衣女学生中长款ins面包服大毛领棉袄加厚外套",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjU1NjQ0ODNfNGNfMF8wXzBfMTgyXzFfM19sb2MtMA==",
+                "orgPrice": "￥279.99",
+                "props": ["面包服", "新款"],
+                "hasSimilarity": true,
+                "sale": 1472,
+                "cfav": 4889,
+                "price": "￥158",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mbh7ky&acm=3.ms.1_4_1mbh7ky.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_465564483_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 7,
+                "iid": "1mbuvxq",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbuvxq&acm=3.ms.1_1_1mbuvxq.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_469078103_0_5_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2066393_50_0-dit_25&cparam=MTU0NDYwNTk0Nl8xZjltczNnXzk0ZDU1MTk3OTQxMWQ2NzAyNzY0YmRhMmE0YTNmNTUxXzE2XzRfNDY5MDc4MTAzXzQ5ODlfMF81XzBfMTU4XzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/c45406/181127_38kih92i7b3g5hd99f05e95leb0eg_640x960.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s11.mogucdn.com/mlcdn/c45406/181127_38kih92i7b3g5hd99f05e95leb0eg_640x960.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 480
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbuvxq&acm=3.ms.1_1_1mbuvxq.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_469078103_0_5_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2066393_50_0-dit_25&cparam=MTU0NDYwNTk0Nl8xZjltczNnXzk0ZDU1MTk3OTQxMWQ2NzAyNzY0YmRhMmE0YTNmNTUxXzE2XzRfNDY5MDc4MTAzXzQ5ODlfMF81XzBfMTU4XzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "itemMarks": "1525 352 166 16 1232 206 351",
+                "acm": "3.ms.1_1_1mbuvxq.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_469078103_0_5_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2066393_50_0-dit_25",
+                "title": "高领毛衣女2018秋冬新款韩版百搭修身显瘦气质加绒加厚针织衫长袖打底衫女套头上衣保暖打底衫",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xZjltczNnXzk0ZDU1MTk3OTQxMWQ2NzAyNzY0YmRhMmE0YTNmNTUxXzE2XzRfNDY5MDc4MTAzXzQ5ODlfMF81XzBfMTU4XzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "orgPrice": "￥110",
+                "props": ["高领毛衣", "秋冬新款", "百搭", "修身显瘦", "加绒", "气质", "韩版"],
+                "hasSimilarity": true,
+                "sale": "1250",
+                "cfav": "1075",
+                "price": "￥66",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mbuvxq&acm=3.ms.1_1_1mbuvxq.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_469078103_0_5_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2066393_50_0-dit_25&itemType=7"
+            }, {
+                "itemType": 7,
+                "iid": "1mam7rk",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mam7rk&acm=3.ms.1_1_1mam7rk.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_461585986_2065536_6_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2065536_30_0-dit_25&cparam=MTU0NDYwNTk0Nl8xZmMyNWc2XzRkMjU5YTYxNjEyNmQxN2M4M2NkOTU5NGExMTgyMWFkXzE2XzVfNDYxNTg1OTg2XzRmODZfMjA2NTUzNl82XzBfNThfMV8wX3JzLTUwMDE5LnJ0LTAud3QtMg==",
+                "showLarge": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_3f5fg9jfa7i7lahgd96k2e95j94lb_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_3f5fg9jfa7i7lahgd96k2e95j94lb_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mam7rk&acm=3.ms.1_1_1mam7rk.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_461585986_2065536_6_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2065536_30_0-dit_25&cparam=MTU0NDYwNTk0Nl8xZmMyNWc2XzRkMjU5YTYxNjEyNmQxN2M4M2NkOTU5NGExMTgyMWFkXzE2XzVfNDYxNTg1OTg2XzRmODZfMjA2NTUzNl82XzBfNThfMV8wX3JzLTUwMDE5LnJ0LTAud3QtMg==",
+                "combImage": true,
+                "itemMarks": "352 1558 166 16 206 82 351 1108",
+                "acm": "3.ms.1_1_1mam7rk.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_461585986_2065536_6_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2065536_30_0-dit_25",
+                "title": "（现货）2018新款大毛领chic羽绒棉服长款过膝韩版宽松bf加厚ins面包服冬季外套女",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xZmMyNWc2XzRkMjU5YTYxNjEyNmQxN2M4M2NkOTU5NGExMTgyMWFkXzE2XzVfNDYxNTg1OTg2XzRmODZfMjA2NTUzNl82XzBfNThfMV8wX3JzLTUwMDE5LnJ0LTAud3QtMg==",
+                "orgPrice": "￥368.58",
+                "props": ["面包服", "大毛领", "过膝", "加厚", "长款", "宽松", "韩版", "新款"],
+                "hasSimilarity": true,
+                "sale": "965",
+                "cfav": "5155",
+                "price": "￥235",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mam7rk&acm=3.ms.1_1_1mam7rk.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_461585986_2065536_6_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2065536_30_0-dit_25&itemType=7"
+            }, {
+                "itemType": 6,
+                "iid": "1mbr6v2",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbr6v2&acm=3.ms.1_4_1mbr6v2.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_468052390_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjgwNTIzOTBfNGNfMF8wXzBfNzYxXzFfM19sb2MtMA==",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/c45406/181124_421j6c218500i15daf3l0e2bab6b8_640x960.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s11.mogucdn.com/mlcdn/c45406/181124_421j6c218500i15daf3l0e2bab6b8_640x960.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 480
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbr6v2&acm=3.ms.1_4_1mbr6v2.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_468052390_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjgwNTIzOTBfNGNfMF8wXzBfNzYxXzFfM19sb2MtMA==",
+                "itemMarks": "1558 166 16 206",
+                "acm": "3.ms.1_4_1mbr6v2.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_468052390_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "棉服女2018冬季新款韩版学生过膝中长款大毛领连帽棉衣宽松显瘦棉袄外套女加厚长款羽绒棉袄子",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjgwNTIzOTBfNGNfMF8wXzBfNzYxXzFfM19sb2MtMA==",
+                "orgPrice": "￥99",
+                "props": ["棉服", "大毛领", "羽绒", "过膝", "加厚", "长款", "中长款", "宽松显瘦", "冬季", "韩版", "新款"],
+                "hasSimilarity": true,
+                "sale": 273,
+                "cfav": 1962,
+                "price": "￥64.35",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mbr6v2&acm=3.ms.1_4_1mbr6v2.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_468052390_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1mbqrgy",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbqrgy&acm=3.ms.1_4_1mbqrgy.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469555407_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njk1NTU0MDdfNGZfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "showLarge": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_7hgf7h3ec90cba624f15il234787b_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_7hgf7h3ec90cba624f15il234787b_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbqrgy&acm=3.ms.1_4_1mbqrgy.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469555407_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njk1NTU0MDdfNGZfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "combImage": true,
+                "itemMarks": "352 1558 166 16 206 351",
+                "acm": "3.ms.1_4_1mbqrgy.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469555407_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "2018冬装新款韩版东大门羽绒服女装中长款过膝大衣冬季面包服外套",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njk1NTU0MDdfNGZfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "orgPrice": "￥498",
+                "props": ["羽绒服", "过膝", "中长款", "东大门", "冬季", "新款", "韩版"],
+                "hasSimilarity": true,
+                "sale": 91,
+                "cfav": 679,
+                "price": "￥279",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mbqrgy&acm=3.ms.1_4_1mbqrgy.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469555407_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1m9roj8",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1m9roj8&acm=3.ms.1_4_1m9roj8.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "showLarge": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_11j0h423la33aj3b4af3893ell3j2_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_11j0h423la33aj3b4af3893ell3j2_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1m9roj8&acm=3.ms.1_4_1m9roj8.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "combImage": true,
+                "itemMarks": "1525 352 1558 166 1655 16 206 82 1318 351",
+                "acm": "3.ms.1_4_1m9roj8.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "2018秋冬新款宽松保暖大毛领连帽棉衣学生棉服可爱棉衣棉服",
+                "type": 2,
+                "orgPrice": "￥242",
+                "props": ["棉衣棉服", "大毛领", "宽松", "秋冬新款", "可爱"],
+                "hasSimilarity": true,
+                "sale": 5261,
+                "cfav": 10764,
+                "price": "￥145",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1m9roj8&acm=3.ms.1_4_1m9roj8.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1mbyt6m",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbyt6m&acm=3.ms.1_4_1mbyt6m.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469462397_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njk0NjIzOTdfNDhfMF8wXzBfMTAwN18xXzNfbG9jLTA=",
+                "showLarge": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_5dj05b3h7if467f8a666h2hg0j4bj_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_5dj05b3h7if467f8a666h2hg0j4bj_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbyt6m&acm=3.ms.1_4_1mbyt6m.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469462397_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njk0NjIzOTdfNDhfMF8wXzBfMTAwN18xXzNfbG9jLTA=",
+                "combImage": true,
+                "itemMarks": "352 166 16 206 351",
+                "acm": "3.ms.1_4_1mbyt6m.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469462397_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "冬季2018新款韩版女装时尚百搭气质宽松显瘦网红同款外套中长款加厚棉衣面包服潮",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njk0NjIzOTdfNDhfMF8wXzBfMTAwN18xXzNfbG9jLTA=",
+                "orgPrice": "￥228.55",
+                "props": ["面包服", "中长款", "宽松显瘦", "时尚", "百搭", "同款", "气质", "冬季", "韩版", "新款"],
+                "hasSimilarity": true,
+                "sale": 313,
+                "onSaleTime": "最近上新",
+                "cfav": 2124,
+                "price": "￥148.98",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mbyt6m&acm=3.ms.1_4_1mbyt6m.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469462397_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1mbccgq",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbccgq&acm=3.ms.1_4_1mbccgq.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_464158895_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjQxNTg4OTVfNGY4Zl8wXzBfMF8xODJfMV8zX2xvYy0w",
+                "showLarge": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_5bh781761hj158g38g7lek2hc1ad3_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_5bh781761hj158g38g7lek2hc1ad3_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbccgq&acm=3.ms.1_4_1mbccgq.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_464158895_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjQxNTg4OTVfNGY4Zl8wXzBfMF8xODJfMV8zX2xvYy0w",
+                "combImage": true,
+                "itemMarks": "1525 352 1558 166 16 206 351",
+                "acm": "3.ms.1_4_1mbccgq.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_464158895_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "【原版做工质量】冬季新款韩版女学生百搭宽松中长款加绒加厚女学生ins连帽毛领羽绒外套女潮",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjQxNTg4OTVfNGY4Zl8wXzBfMF8xODJfMV8zX2xvYy0w",
+                "orgPrice": "￥270",
+                "props": ["羽绒外套", "毛领", "连帽", "中长款", "女潮", "宽松", "原版", "加绒加厚", "冬季", "新款", "韩版"],
+                "hasSimilarity": true,
+                "sale": 168,
+                "cfav": 686,
+                "price": "￥119",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mbccgq&acm=3.ms.1_4_1mbccgq.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_464158895_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1mb4w6u",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mb4w6u&acm=3.ms.1_4_1mb4w6u.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467990674_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc5OTA2NzRfNGNfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "showLarge": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_175jg84g4k63h96hgfg56jg63h6l4_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_175jg84g4k63h96hgfg56jg63h6l4_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mb4w6u&acm=3.ms.1_4_1mb4w6u.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467990674_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc5OTA2NzRfNGNfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "combImage": true,
+                "itemMarks": "352 1558 166 1655 16 206 1318 351",
+                "acm": "3.ms.1_4_1mb4w6u.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467990674_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "羽绒服女中长款长过膝2018新款冬装大毛领气质时尚修身加厚面包服外套",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc5OTA2NzRfNGNfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "orgPrice": "￥468",
+                "props": ["羽绒服", "大毛领", "过膝", "加厚", "中长款", "修身", "时尚", "气质", "新款"],
+                "hasSimilarity": true,
+                "sale": 912,
+                "cfav": 3940,
+                "price": "￥235",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mb4w6u&acm=3.ms.1_4_1mb4w6u.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467990674_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 7,
+                "iid": "1maszcs",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1maszcs&acm=3.ms.1_1_1maszcs.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_463624175_474985836_7_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_1_474985836_60_0-dit_25&cparam=MTU0NDYwNTk0Nl8xZmZrazR3XzdjZWQ2ZDYxNWVhN2ExY2I3ZTI3NGU2MGYyNzA1ZjJhXzE2XzZfNDYzNjI0MTc1XzQ4ODlfMF83XzBfMzg2XzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/55cf19/181102_433d4fe3i9dikjl0k0i4i8ahhgdj1_640x960.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s11.mogucdn.com/mlcdn/55cf19/181102_433d4fe3i9dikjl0k0i4i8ahhgdj1_640x960.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 480
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1maszcs&acm=3.ms.1_1_1maszcs.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_463624175_474985836_7_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_1_474985836_60_0-dit_25&cparam=MTU0NDYwNTk0Nl8xZmZrazR3XzdjZWQ2ZDYxNWVhN2ExY2I3ZTI3NGU2MGYyNzA1ZjJhXzE2XzZfNDYzNjI0MTc1XzQ4ODlfMF83XzBfMzg2XzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "itemMarks": "352 351",
+                "acm": "3.ms.1_1_1maszcs.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_463624175_474985836_7_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_1_474985836_60_0-dit_25",
+                "title": "秋冬新款韩版宽松柔软亲肤高领毛衣女纯色套头针织衫长袖打底衫",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xZmZrazR3XzdjZWQ2ZDYxNWVhN2ExY2I3ZTI3NGU2MGYyNzA1ZjJhXzE2XzZfNDYzNjI0MTc1XzQ4ODlfMF83XzBfMzg2XzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "orgPrice": "￥71.29",
+                "props": ["高领毛衣", "宽松", "柔软", "秋冬新款", "纯色", "亲肤", "韩版"],
+                "hasSimilarity": true,
+                "sale": "1911",
+                "cfav": "2662",
+                "price": "￥49",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1maszcs&acm=3.ms.1_1_1maszcs.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_463624175_474985836_7_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_1_474985836_60_0-dit_25&itemType=7"
+            }, {
+                "itemType": 7,
+                "iid": "1mb8mlu",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mb8mlu&acm=3.ms.1_1_1mb8mlu.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_466573020_0_8_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_0_20_0-dit_25&cparam=MTU0NDYwNTk0Nl8xZmpycGp3X2EzMTllY2E5YTE1NDcxYTZkMjk1YjRkMzg3Nzk5NWJlXzE2XzdfNDY2NTczMDIwXzRjODZfMF84XzBfMzM4XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                "showLarge": {
+                    "img": "http://s3.mogucdn.com/mlcdn/c45406/181110_42fgif4jf30g9ie0e512b687hd0kk_800x800.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 560
+                },
+                "show": {
+                    "img": "http://s11.mogucdn.com/mlcdn/c45406/181110_42fgif4jf30g9ie0e512b687hd0kk_800x800.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 320
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mb8mlu&acm=3.ms.1_1_1mb8mlu.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_466573020_0_8_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_0_20_0-dit_25&cparam=MTU0NDYwNTk0Nl8xZmpycGp3X2EzMTllY2E5YTE1NDcxYTZkMjk1YjRkMzg3Nzk5NWJlXzE2XzdfNDY2NTczMDIwXzRjODZfMF84XzBfMzM4XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                "itemMarks": "1459",
+                "acm": "3.ms.1_1_1mb8mlu.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_466573020_0_8_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_0_20_0-dit_25",
+                "title": "2018羽绒羽绒服女中长款新外套冬装学生chic过膝羽绒羽绒衣ins加厚面包服",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xZmpycGp3X2EzMTllY2E5YTE1NDcxYTZkMjk1YjRkMzg3Nzk5NWJlXzE2XzdfNDY2NTczMDIwXzRjODZfMF84XzBfMzM4XzFfMF9ycy01MDAxOS5ydC0wLnd0LTA=",
+                "orgPrice": "￥353",
+                "props": ["羽绒衣", "过膝", "羽绒", "加厚", "中长款"],
+                "hasSimilarity": true,
+                "sale": "25",
+                "cfav": "330",
+                "price": "￥247",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mb8mlu&acm=3.ms.1_1_1mb8mlu.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_466573020_0_8_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_0_20_0-dit_25&itemType=7",
+                "mdDiscount": "蘑豆抵3%"
+            }, {
+                "itemType": 6,
+                "iid": "1mbf3do",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbf3do&acm=3.ms.1_4_1mbf3do.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_465349063_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjUzNDkwNjNfNGNfMF8wXzBfMjIzXzFfM19sb2MtMA==",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_73ghc76990bjl8gfjii43ej22c71d_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_73ghc76990bjl8gfjii43ej22c71d_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbf3do&acm=3.ms.1_4_1mbf3do.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_465349063_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjUzNDkwNjNfNGNfMF8wXzBfMjIzXzFfM19sb2MtMA==",
+                "combImage": true,
+                "itemMarks": "352 166 16 206 82 351",
+                "acm": "3.ms.1_4_1mbf3do.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_465349063_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "冬季新款韩版chic宽松长袖羊羔绒外套女小个子纯色立领短款加厚羊羔毛外套",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjUzNDkwNjNfNGNfMF8wXzBfMjIzXzFfM19sb2MtMA==",
+                "orgPrice": "￥365.31",
+                "props": ["羊羔毛外套", "短款", "立领", "宽松", "长袖", "纯色", "加厚", "冬季", "新款", "韩版"],
+                "hasSimilarity": true,
+                "sale": 529,
+                "cfav": 1973,
+                "price": "￥178",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mbf3do&acm=3.ms.1_4_1mbf3do.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_465349063_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1mb3atc",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mb3atc&acm=3.ms.1_4_1mb3atc.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_4hj17986k06h664k562cc0cch4ee5_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_4hj17986k06h664k562cc0cch4ee5_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mb3atc&acm=3.ms.1_4_1mb3atc.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "combImage": true,
+                "itemMarks": "166 16 206 82",
+                "acm": "3.ms.1_4_1mb3atc.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "小个子宽松加厚羽绒棉衣女2018冬装新款短面包棉服小棉袄ins流行外套潮",
+                "type": 2,
+                "orgPrice": "￥185",
+                "props": ["面包棉服", "加厚", "宽松", "新款"],
+                "hasSimilarity": true,
+                "sale": 927,
+                "cfav": 3945,
+                "price": "￥116.5",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mb3atc&acm=3.ms.1_4_1mb3atc.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1mb9nk0",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mb9nk0&acm=3.ms.1_4_1mb9nk0.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_463722175_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjM3MjIxNzVfNGJfMF8wXzBfNDg4XzFfM19sb2MtMA==",
+                "showLarge": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_4beidb4610i4kcf6fb3069496llal_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_4beidb4610i4kcf6fb3069496llal_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mb9nk0&acm=3.ms.1_4_1mb9nk0.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_463722175_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjM3MjIxNzVfNGJfMF8wXzBfNDg4XzFfM19sb2MtMA==",
+                "combImage": true,
+                "itemMarks": "352 166 16 206 351",
+                "acm": "3.ms.1_4_1mb9nk0.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_463722175_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "2018秋冬新款宽松慵懒网红半高领毛衣女温柔风打底针织衫",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjM3MjIxNzVfNGJfMF8wXzBfNDg4XzFfM19sb2MtMA==",
+                "orgPrice": "￥127.15",
+                "props": ["半高领毛衣", "宽松", "秋冬新款"],
+                "hasSimilarity": true,
+                "sale": 42,
+                "cfav": 209,
+                "price": "￥76",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mb9nk0&acm=3.ms.1_4_1mb9nk0.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_463722175_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1mb4sq0",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mb4sq0&acm=3.ms.1_4_1mb4sq0.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467990685_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc5OTA2ODVfNGNfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "showLarge": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_0j9e7l72e9lg568ge89edlb9hg874_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_0j9e7l72e9lg568ge89edlb9hg874_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mb4sq0&acm=3.ms.1_4_1mb4sq0.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467990685_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc5OTA2ODVfNGNfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "combImage": true,
+                "itemMarks": "352 1558 166 16 206 351",
+                "acm": "3.ms.1_4_1mb4sq0.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467990685_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "chic纯色连帽外套羽绒服女中长款2018冬季新款ins面包服港风外套过膝长款保暖大衣潮",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc5OTA2ODVfNGNfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "orgPrice": "￥529",
+                "props": ["羽绒服", "过膝", "长款", "中长款", "纯色", "港风", "冬季", "新款"],
+                "hasSimilarity": true,
+                "sale": 65,
+                "cfav": 504,
+                "price": "￥287",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mb4sq0&acm=3.ms.1_4_1mb4sq0.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467990685_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1mbmg76",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbmg76&acm=3.ms.1_4_1mbmg76.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_466709539_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjY3MDk1MzlfNGNfMF8wXzBfMzIxXzFfM19sb2MtMA==",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_505jecl55638g21dee13c19gb7151_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_505jecl55638g21dee13c19gb7151_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbmg76&acm=3.ms.1_4_1mbmg76.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_466709539_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjY3MDk1MzlfNGNfMF8wXzBfMzIxXzFfM19sb2MtMA==",
+                "combImage": true,
+                "itemMarks": "352 1558 166 16 206 351",
+                "acm": "3.ms.1_4_1mbmg76.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_466709539_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "2018冬季网红同仿貂毛中长款外套保暖收腰系带毛茸茸网红上衣",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NjY3MDk1MzlfNGNfMF8wXzBfMzIxXzFfM19sb2MtMA==",
+                "orgPrice": "￥192",
+                "props": ["中长款外套", "毛茸茸", "冬季"],
+                "hasSimilarity": true,
+                "sale": 50,
+                "cfav": 261,
+                "price": "￥124.8",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mbmg76&acm=3.ms.1_4_1mbmg76.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_466709539_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6",
+                "mdDiscount": "蘑豆抵2%"
+            }, {
+                "itemType": 6,
+                "iid": "1macjdu",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1macjdu&acm=3.ms.1_4_1macjdu.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_456849119_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NTY4NDkxMTlfNGY4ZV8wXzBfMF8zMjZfMV8zX2xvYy0w",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/c45406/181024_2e13de7h9edblj61i7i5400b2f1gi_640x960.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/c45406/181024_2e13de7h9edblj61i7i5400b2f1gi_640x960.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 480
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1macjdu&acm=3.ms.1_4_1macjdu.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_456849119_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NTY4NDkxMTlfNGY4ZV8wXzBfMF8zMjZfMV8zX2xvYy0w",
+                "itemMarks": "1525 352 166 16 206 351",
+                "acm": "3.ms.1_4_1macjdu.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_456849119_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "2018秋冬季新款韩版日系甜美小清新高领长袖开叉毛衣学生休闲百搭原宿风加厚打底针织衫上衣女",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NTY4NDkxMTlfNGY4ZV8wXzBfMF8zMjZfMV8zX2xvYy0w",
+                "orgPrice": "￥112.86",
+                "props": ["开叉毛衣", "高领", "长袖", "甜美", "加厚", "百搭", "秋冬季", "小清新", "学生休闲", "日系", "原宿风", "韩版", "新款"],
+                "hasSimilarity": true,
+                "sale": 2476,
+                "cfav": 1609,
+                "price": "￥69",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1macjdu&acm=3.ms.1_4_1macjdu.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_456849119_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 7,
+                "iid": "1mbiag2",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbiag2&acm=3.ms.1_1_1mbiag2.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_470099058_2067304_9_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2067304_40_0-dit_25&cparam=MTU0NDYwNTk0Nl8xZmVmdWRrX2E2ZDAzMDdkMTc1OGZhMDFjNDA4MmVhMGIzMDc1ZmQ5XzE2XzhfNDcwMDk5MDU4XzRlODZfMjA2NzMwNF85XzBfMTU4XzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/17f85e/181203_3ej7gchbhbc51962lchbg4d7lgg7l_640x960.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/17f85e/181203_3ej7gchbhbc51962lchbg4d7lgg7l_640x960.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 480
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbiag2&acm=3.ms.1_1_1mbiag2.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_470099058_2067304_9_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2067304_40_0-dit_25&cparam=MTU0NDYwNTk0Nl8xZmVmdWRrX2E2ZDAzMDdkMTc1OGZhMDFjNDA4MmVhMGIzMDc1ZmQ5XzE2XzhfNDcwMDk5MDU4XzRlODZfMjA2NzMwNF85XzBfMTU4XzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "itemMarks": "1525 352 166 16 1232 206 351",
+                "acm": "3.ms.1_1_1mbiag2.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_470099058_2067304_9_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2067304_40_0-dit_25",
+                "title": "高领白色毛衣女套头加厚韩版宽松秋冬季2018慵懒风新款韩版时尚百搭气质打底针织衫",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xZmVmdWRrX2E2ZDAzMDdkMTc1OGZhMDFjNDA4MmVhMGIzMDc1ZmQ5XzE2XzhfNDcwMDk5MDU4XzRlODZfMjA2NzMwNF85XzBfMTU4XzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "orgPrice": "￥110",
+                "props": ["白色毛衣", "高领", "套头", "宽松", "加厚", "百搭", "秋冬季", "时尚", "气质", "韩版", "新款"],
+                "hasSimilarity": true,
+                "sale": "343",
+                "cfav": "685",
+                "price": "￥66",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mbiag2&acm=3.ms.1_1_1mbiag2.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_470099058_2067304_9_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2067304_40_0-dit_25&itemType=7"
+            }, {
+                "itemType": 7,
+                "iid": "1m9hmb2",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1m9hmb2&acm=3.ms.1_1_1m9hmb2.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_465623208_2065552_10_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2065552_36_0-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfOV80NjU2MjMyMDhfNGU4OV8yMDY1NTUyXzEwXzBfMzk4XzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/17f85e/181115_6d8gh3k1cej8e7b5b98gg3ahcc8e2_640x960.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s11.mogucdn.com/mlcdn/17f85e/181115_6d8gh3k1cej8e7b5b98gg3ahcc8e2_640x960.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 480
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1m9hmb2&acm=3.ms.1_1_1m9hmb2.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_465623208_2065552_10_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2065552_36_0-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfOV80NjU2MjMyMDhfNGU4OV8yMDY1NTUyXzEwXzBfMzk4XzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "itemMarks": "1525 1459 166 16 206 1108",
+                "acm": "3.ms.1_1_1m9hmb2.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_465623208_2065552_10_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2065552_36_0-dit_25",
+                "title": "毛衣加厚女冬季新款百搭打底衫学生上衣宽松绣花短款套头半高领针织衫韩版时尚百搭气质",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfOV80NjU2MjMyMDhfNGU4OV8yMDY1NTUyXzEwXzBfMzk4XzFfMF9ycy01MDAxOS5ydC0wLnd0LTI=",
+                "orgPrice": "￥82.86",
+                "props": ["毛衣", "套头", "宽松", "短款", "加厚", "百搭", "绣花", "时尚", "气质", "冬季", "韩版", "新款"],
+                "hasSimilarity": true,
+                "sale": "887",
+                "cfav": "1111",
+                "price": "￥53.8",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1m9hmb2&acm=3.ms.1_1_1m9hmb2.17.28075-68998.0XJWNrc0p8Aa5.ct_1100-sd_117-imt_7-c_2_16_465623208_2065552_10_0-t_0XJWNrc0p8Aa5-lc_16-fcid_50019-pid_180-c1_50019_nil_nil_0_2065552_36_0-dit_25&itemType=7"
+            }, {
+                "itemType": 6,
+                "iid": "1ma3gx0",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1ma3gx0&acm=3.ms.1_4_1ma3gx0.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_455146503_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NTUxNDY1MDNfNGVfMF8wXzBfMzNfMV8zX2xvYy0w",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_5diecf1d1le48fcbeejb9gch9hb5j_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_5diecf1d1le48fcbeejb9gch9hb5j_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1ma3gx0&acm=3.ms.1_4_1ma3gx0.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_455146503_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NTUxNDY1MDNfNGVfMF8wXzBfMzNfMV8zX2xvYy0w",
+                "combImage": true,
+                "itemMarks": "1525 352 1558 166 16 206 351",
+                "acm": "3.ms.1_4_1ma3gx0.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_455146503_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "恋香妃2018秋冬季装新款韩版时尚狐狸毛超大毛领牛仔外套女短款宽松加厚保暖修身夹克短外套",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NTUxNDY1MDNfNGVfMF8wXzBfMzNfMV8zX2xvYy0w",
+                "orgPrice": "￥498",
+                "props": ["恋香妃", "牛仔外套", "短款", "宽松", "加厚", "秋冬季", "时尚", "狐狸毛", "大毛领", "新款", "韩版"],
+                "hasSimilarity": true,
+                "sale": 74,
+                "cfav": 700,
+                "price": "￥268",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1ma3gx0&acm=3.ms.1_4_1ma3gx0.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_455146503_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1mblnyy",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mblnyy&acm=3.ms.1_4_1mblnyy.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467990673_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc5OTA2NzNfNGZfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "showLarge": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_7087ac6el0bke1c4h625e2b214e36_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_7087ac6el0bke1c4h625e2b214e36_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mblnyy&acm=3.ms.1_4_1mblnyy.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467990673_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc5OTA2NzNfNGZfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "combImage": true,
+                "itemMarks": "352 1558 166 16 206 351",
+                "acm": "3.ms.1_4_1mblnyy.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467990673_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "ins外套冬羽绒服女2018新款茧型面包服中长款学生韩版宽松bf加厚小个子大衣潮",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc5OTA2NzNfNGZfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "orgPrice": "￥389",
+                "props": ["羽绒服", "加厚", "中长款", "茧型", "宽松", "新款", "韩版"],
+                "hasSimilarity": true,
+                "sale": 206,
+                "cfav": 1403,
+                "price": "￥178",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mblnyy&acm=3.ms.1_4_1mblnyy.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467990673_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1mbnibm",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbnibm&acm=3.ms.1_4_1mbnibm.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467720881_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc3MjA4ODFfNGVfMF8wXzBfNDMyXzFfM19sb2MtMA==",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_1f8l68hiab4lb147ibk09lb3h7d30_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_1f8l68hiab4lb147ibk09lb3h7d30_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbnibm&acm=3.ms.1_4_1mbnibm.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467720881_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc3MjA4ODFfNGVfMF8wXzBfNDMyXzFfM19sb2MtMA==",
+                "combImage": true,
+                "itemMarks": "166 16 206",
+                "acm": "3.ms.1_4_1mbnibm.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467720881_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "欧洲站外套女冬季新款2018韩版百搭小个子短款修身显瘦大毛领羽绒棉服棉衣女",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njc3MjA4ODFfNGVfMF8wXzBfNDMyXzFfM19sb2MtMA==",
+                "orgPrice": "￥240",
+                "props": ["棉服棉衣", "大毛领", "羽绒", "短款", "修身显瘦", "百搭", "冬季", "韩版", "新款"],
+                "hasSimilarity": true,
+                "sale": 2259,
+                "cfav": 1499,
+                "price": "￥156",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mbnibm&acm=3.ms.1_4_1mbnibm.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_467720881_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1ma7y46",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1ma7y46&acm=3.ms.1_4_1ma7y46.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_455518559_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NTU1MTg1NTlfNGZfMF8wXzBfNTAyXzFfM19sb2MtMA==",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_86dg6254g55c3jad8j02kkfehgk3e_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_86dg6254g55c3jad8j02kkfehgk3e_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1ma7y46&acm=3.ms.1_4_1ma7y46.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_455518559_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NTU1MTg1NTlfNGZfMF8wXzBfNTAyXzFfM19sb2MtMA==",
+                "combImage": true,
+                "itemMarks": "352 1558 166 16 206 82 351",
+                "acm": "3.ms.1_4_1ma7y46.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_455518559_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "秋冬新款韩版加厚chic中长款侧开叉口袋毛毛绒仿皮草外套女潮",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NTU1MTg1NTlfNGZfMF8wXzBfNTAyXzFfM19sb2MtMA==",
+                "orgPrice": "￥240",
+                "props": ["仿皮草外套", "中长款", "毛绒", "女潮", "秋冬新款", "加厚", "侧开叉", "韩版"],
+                "hasSimilarity": true,
+                "sale": 3777,
+                "cfav": 3496,
+                "price": "￥148",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1ma7y46&acm=3.ms.1_4_1ma7y46.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_455518559_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1ma3g10",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1ma3g10&acm=3.ms.1_4_1ma3g10.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_454512922_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NTQ1MTI5MjJfNGVfMF8wXzBfODc0XzFfM19sb2MtMA==",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_2kk1h1ckke170a66gid4ckhl61h9d_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s3.mogucdn.com/mlcdn/776a41/181210_2kk1h1ckke170a66gid4ckhl61h9d_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1ma3g10&acm=3.ms.1_4_1ma3g10.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_454512922_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NTQ1MTI5MjJfNGVfMF8wXzBfODc0XzFfM19sb2MtMA==",
+                "combImage": true,
+                "itemMarks": "352 166 16 206 351",
+                "acm": "3.ms.1_4_1ma3g10.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_454512922_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "2018秋冬装新款女装韩版甜美小清新宽松显瘦百搭加厚大毛领棉服网红面包服棉袄棉衣外套女冬季",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80NTQ1MTI5MjJfNGVfMF8wXzBfODc0XzFfM19sb2MtMA==",
+                "orgPrice": "￥285.29",
+                "props": ["大毛领棉服", "加厚", "宽松显瘦", "甜美", "百搭", "小清新", "冬季", "韩版", "新款"],
+                "hasSimilarity": true,
+                "sale": 1335,
+                "cfav": 6328,
+                "price": "￥169",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1ma3g10&acm=3.ms.1_4_1ma3g10.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_454512922_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }, {
+                "itemType": 6,
+                "iid": "1mbyk20",
+                "clientUrl": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbyk20&acm=3.ms.1_4_1mbyk20.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469555406_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njk1NTU0MDZfNGZfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_03f7kbk3171k24dkcglldkj3h9k83_750x1125.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "show": {
+                    "img": "http://s11.mogucdn.com/mlcdn/776a41/181210_03f7kbk3171k24dkcglldkj3h9k83_750x1125.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "link": "http://h5.mogujie.com/detail-normal/index.html?itemId=1mbyk20&acm=3.ms.1_4_1mbyk20.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469555406_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&cparam=MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njk1NTU0MDZfNGZfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "combImage": true,
+                "itemMarks": "352 166 16 206 351",
+                "acm": "3.ms.1_4_1mbyk20.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469555406_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25",
+                "title": "羽绒服女中长款2018新款过膝时尚宽松加厚大毛领东大门韩版外套潮",
+                "type": 2,
+                "cparam": "MTU0NDYwNTk0Nl8xMWtfNDRhNmQxYjdiZWZkY2U5ZDQ0ZTZjZWMyYWE0MzVmNzZfMTZfMF80Njk1NTU0MDZfNGZfMF8wXzBfMzg3XzFfM19sb2MtMA==",
+                "orgPrice": "￥599",
+                "props": ["羽绒服", "大毛领", "过膝", "加厚", "中长款", "东大门", "时尚", "宽松", "新款"],
+                "hasSimilarity": true,
+                "sale": 61,
+                "cfav": 284,
+                "price": "￥269",
+                "similarityUrl": "http://m.mogujie.com/wall/relative?pid=8872&iid=1mbyk20&acm=3.ms.1_4_1mbyk20.17.1309-68998.0XJWNrc0p8Aa5.sd_117-imt_6-c_1_16_469555406_0_0_3-t_0XJWNrc0p8Aa5-tx_20000286_0-lc_16-fcid_50019-pid_180-dit_25&itemType=6"
+            }],
+            "isEnd": false
+        }
+    },
+    "success": true
+}

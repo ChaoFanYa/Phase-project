@@ -1,0 +1,187 @@
+    .details-container{
+        width: 1340px;
+        height: 520px;
+        background: #fff;
+        margin:20px 0 0  120px;
+        
+    }
+    .container-header{
+        height: 60px;
+    }
+    .container-header li{
+        float: left;
+        line-height: 50px;
+        padding-left: 10px;
+    }
+    .container-header li a{
+        color: black;
+        font-size: 13px;
+    }
+    .container-header li a:hover{
+        text-decoration: underline;
+    }
+
+    /* 中间部分 */
+    .container-center{
+        height: 500px;
+    }
+    .container-center-left{
+        width: 120px;
+        height: 500px;
+        float: left;
+    }
+    .container-center-left img{
+        width: 70px;
+        height: 70px;
+        margin-top: 30px;
+    }
+
+        /* 放大镜部分 */
+    .container-center-img{
+        width: 500px;
+        height: 500px;
+        float: left;
+        position: relative;
+    }
+    .container-center-img img{
+        display: block;
+        width: 500px;
+        height: 500px;
+       position: relative;
+    }
+    /* #frame{
+        width: 125px;
+        height: 125px;
+        box-shadow: 0 0 5px #000;
+        position: absolute;
+        top: 0;
+        left: 0;
+        display: none;
+        background-image: url(https://res.yslbeautycn.com/resources/2018/11/15/15422711104893973_500X500.jpg?version=20181211171139895);
+        background-size: 500px 500px;
+        background-position: 0 0;
+        background-repeat: no-repeat;
+    } */
+    #big{
+        width: 500px;
+        height: 500px;
+        position: relative;
+        box-shadow: 0 0 5px #000;
+        overflow: hidden;
+        position: absolute;
+        top: 0;
+        left: 500px;
+    }
+    #big img{
+        width: 2000px;
+        height: 2000px;
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+
+    .container-center-right{
+        width: 500px;
+        height: 500px;
+        float: left;
+        margin-left: 40px;
+        /* text-align: center; */
+        padding-top: 10px;
+    }
+    .container-center-right h2{
+        font-weight: normal;
+        font-size: 25px;
+    }
+    .container-center-right p{
+        color: #777;
+        font-size: 15px;
+        line-height: 35px;
+    }
+    .container-center-right a{
+        color: black;
+        text-decoration: underline;
+        font-size: 12px;
+        margin-left: 30px;
+    } 
+    .container-center-right span{
+        font-weight: bold;
+        color: red;
+    }
+    .container-center-right h5{
+        font-weight: normal;
+        font-size: 15px;
+        margin-left: 20px;
+    }
+    .gouxuan{
+        margin-left: 20px;
+    }
+    .container-center-right  ul{
+        height: 40px;
+        padding-top: 10px;
+    }
+    .container-center-right  ul li{
+        float: left;
+    }
+    .container-center-right  ul li span{
+        display: block;
+        width: 25px;
+        height: 25px;
+        background: red;
+        margin: 0 20px;
+    }
+    .container-center-right ol{
+        margin-top: 20px;
+    }
+    .container-center-right ol li{
+        float: left;
+    }
+    .container-center-right ol li:first-child{
+        width: 130px;
+        height: 42px;
+        background: #eee;
+        text-align: center;
+        line-height: 42px;
+        font-size: 15px;
+        color: black;
+        margin-right: 35px;
+    }
+    .container-center-right ol li:nth-last-child(2){
+        width: 130px;
+        height: 42px;
+        background: black;
+        text-align: center;
+        line-height: 42px;
+        font-size: 15px;
+        color: #fff;
+    }
+    .container-center-right ol .right-shop{
+        width: 130px;
+        height: 40px;
+        background: black;
+        text-align: center;
+        line-height: 42px;
+        font-size: 14px;
+        color: #fff;
+        border: 1px solid black;
+    }
+    .container-center-right ol .right-shop:hover{
+        background: #fff;
+        color: black;
+        transition: all .5s;
+    }
+    .container-center-right ol li span:first-child{
+        display: block;
+        color: black;
+        float: left;
+        width: 30px;
+        height: 41px;
+        background: #ddd;
+    }
+    .container-center-right ol li span:nth-child(2){
+        display: block;
+        color: black;
+        float: right;
+        width: 30px;
+        height: 41px;
+        background: #ddd;
+    }
